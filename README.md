@@ -1,4 +1,4 @@
-📊 Proyecto de Data Science - Análisis de Básquet Argentino
+# 📊 Proyecto de Data Science - Análisis de Básquet Argentino
 
 Este proyecto analiza el rendimiento de los equipos de la Liga Nacional de Básquet de Argentina mediante un conjunto de datos con estadísticas de partidos. Se extraen insights sobre la relación entre puntos, rebotes, asistencias y otros indicadores clave de desempeño. También se evalúa la efectividad de los lanzamientos de tres puntos y el impacto de las pérdidas de balón en el rendimiento de los equipos.
 
