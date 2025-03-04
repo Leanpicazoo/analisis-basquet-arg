@@ -9,7 +9,7 @@ ProyectoDSParteI_Picazo.ipynb: Notebook con el análisis y visualización de dat
 Dataset_de_B_squet_Argentino.csv: Dataset con estadísticas de partidos.
 
 
-📂 Cómo Usar este Proyecto
+# 📂 Cómo Usar este Proyecto
 
 🔹 Abrir en Google Colab
 
