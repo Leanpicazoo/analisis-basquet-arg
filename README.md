@@ -15,7 +15,7 @@ Dataset_de_B_squet_Argentino.csv: Dataset con estadísticas de partidos.
 
 Puedes abrir la notebook directamente en Google Colab haciendo clic en el siguiente enlace:
 
-
+https://colab.research.google.com/drive/1SALgmlix1MhOrtTb0t4bM15D2UuGZmhL#scrollTo=5239dd07
 
 🔹 Cargar el Dataset
 
